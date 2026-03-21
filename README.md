@@ -10,3 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ecodership&show_icons=true&theme=dark)
+
+---
