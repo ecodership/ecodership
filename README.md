@@ -14,6 +14,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ecodership&show_icons=true&theme=dark)
 
 ---
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ecodership&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecodership&layout=compact&theme=dark" />
+</div>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,sql,git,github,vscode" />
 </p>
