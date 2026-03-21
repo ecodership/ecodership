@@ -14,3 +14,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ecodership&show_icons=true&theme=dark)
 
 ---
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,sql,git,github,vscode" />
+</p>
