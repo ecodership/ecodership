@@ -11,34 +11,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-<div align="center">
-
-  <img src="https://img.shields.io/badge/PROFILE-ECODERSHIP-blue?style=for-the-badge"/>
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Python-Intermediate-blue?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/SQL-Basic-lightgrey?style=flat&logo=postgresql"/>
-
-  <br/><br/>
-
-  <table>
-    <tr>
-      <td align="center">
-        <b>Focus</b><br/>
-        Data Analysis<br/>
-        Backend<br/>
-        Automation
-      </td>
-      <td align="center">
-        <b>Tools</b><br/>
-        Git<br/>
-        VS Code<br/>
-        Linux
-      </td>
-    </tr>
-  </table>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100"/>
 </div>
