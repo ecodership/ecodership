@@ -14,5 +14,9 @@
 </p>
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ecodership&show_icons=true&theme=dark" />
- 
+ <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ecodership&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecodership&layout=compact&theme=dark" />
+</p>
+
 </div>
