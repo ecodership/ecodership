@@ -12,5 +12,7 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 </p>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ecodership&show_icons=true&theme=dark&cache_seconds=86400" />
- 
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ecodership&show_icons=true&theme=dark&cache_seconds=86400" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecodership&layout=compact&theme=dark&cache_seconds=86400" />
+</div>
